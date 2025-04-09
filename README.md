@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kyle Cervantes</h1>
-<h3 align="center">A passionate mobile and web developer</h3>
-
+<h1 align="left">Hi, I'm Kyle Cervantes</h1>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **different web and mobile development**
-
-- 👨‍💻 All of my projects are available at [https://kylecervantes.netlify.app/](https://kylecervantes.netlify.app/)
 
 - 📫 How to reach me **kylecervantes2003@gmail.com**
 
