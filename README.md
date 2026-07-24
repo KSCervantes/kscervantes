@@ -20,7 +20,7 @@ I build practical web, mobile, and AI systems for local government, businesses, 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 <h3>Frontend</h3>
 <p>
@@ -39,22 +39,8 @@ I build practical web, mobile, and AI systems for local government, businesses, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="34" alt="Supabase" title="Supabase" />
 </p>
 
-<h3>AI / Machine Learning</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="34" alt="Python" title="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="34" alt="TensorFlow" title="TensorFlow" />&nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="34" alt="Hugging Face" title="Hugging Face" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="34" alt="Streamlit" title="Streamlit" />
-</p>
-
-<h3>Deployment</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="34" alt="Vercel" title="Vercel" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="34" alt="Netlify" title="Netlify" />
-</p>
-
 </td>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 <h3>Backend</h3>
 <p>
@@ -63,6 +49,17 @@ I build practical web, mobile, and AI systems for local government, businesses, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="34" alt="Flask" title="Flask" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="34" alt="Next.js" title="Next.js" />
 </p>
+
+<h3>AI / Machine Learning</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="34" alt="Python" title="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="34" alt="TensorFlow" title="TensorFlow" />&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="34" alt="Hugging Face" title="Hugging Face" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="34" alt="Streamlit" title="Streamlit" />
+</p>
+
+</td>
+<td width="33.33%" valign="top">
 
 <h3>Mobile App</h3>
 <p>
@@ -77,6 +74,12 @@ I build practical web, mobile, and AI systems for local government, businesses, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="34" alt="GitHub" title="GitHub" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="34" alt="Visual Studio Code" title="Visual Studio Code" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="34" alt="Android Studio" title="Android Studio" />
+</p>
+
+<h3>Deployment</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="34" alt="Vercel" title="Vercel" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="34" alt="Netlify" title="Netlify" />
 </p>
 
 </td>
