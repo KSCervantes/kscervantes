@@ -12,20 +12,17 @@ I build practical web, mobile, and AI systems for local government, businesses, 
 
 ## Experience
 
-> **● 2024 — Present**
+> ● `2024 — Present`<br>
+> **Founder & Full-Stack Developer** · [DevWorks Studio ↗](https://www.devworkstudios.net/)<br>
+> <sub>Building practical web, mobile, and AI systems for clients and local teams.</sub>
 >
-> **Founder & Full-Stack Developer** · DevWorks Studio<br>
-> Building practical web, mobile, and AI systems for clients and local teams.
+> ● `2025 — 2026`<br>
+> **Full-Stack Developer** · [LGU-Lianga ↗](https://lgu-websites.vercel.app/)<br>
+> <sub>Built a modern website and a document-backed FAQ assistant in English, Cebuano, and Kamayo.</sub>
 >
-> **● 2025 — 2026**
->
-> **Full-Stack Developer** · LGU-Lianga<br>
-> Built a modern website and a document-backed FAQ assistant in English, Cebuano, and Kamayo.
->
-> **● 2025**
->
+> ● `2025`<br>
 > **Technical Support & Systems** · Open Space Technologies<br>
-> Helped deploy a passenger-feedback system at Mactan-Cebu International Airport and supported client operations.
+> <sub>Helped deploy a passenger-feedback system at Mactan-Cebu International Airport and supported client operations.</sub>
 
 ## Stack
 
