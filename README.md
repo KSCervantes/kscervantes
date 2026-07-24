@@ -33,4 +33,8 @@ I build practical web, mobile, and AI systems for local government, businesses, 
 
 ## Connect
 
-[Portfolio](https://kylecervantes.app/) · [LinkedIn](https://www.linkedin.com/in/kyle-cervantes/) · [Email](mailto:cervanteskyle1113@gmail.com)
+<p>
+  <a href="https://kylecervantes.app/" title="Portfolio"><img src="https://kylecervantes.app/favicon-32x32.png" width="28" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kyle-cervantes/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:cervanteskyle1113@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" alt="Email" /></a>
+</p>
