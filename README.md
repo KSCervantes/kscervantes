@@ -12,9 +12,20 @@ I build practical web, mobile, and AI systems for local government, businesses, 
 
 ## Experience
 
-- **DevWorks Studio** — Founder & Full-Stack Developer, 2024–present
-- **LGU-Lianga** — Full-Stack Developer, 2025–2026
-- **Open Space Technologies** — Technical Support & Systems, 2025
+> **● 2024 — Present**
+>
+> **Founder & Full-Stack Developer** · DevWorks Studio<br>
+> Building practical web, mobile, and AI systems for clients and local teams.
+>
+> **● 2025 — 2026**
+>
+> **Full-Stack Developer** · LGU-Lianga<br>
+> Built a modern website and a document-backed FAQ assistant in English, Cebuano, and Kamayo.
+>
+> **● 2025**
+>
+> **Technical Support & Systems** · Open Space Technologies<br>
+> Helped deploy a passenger-feedback system at Mactan-Cebu International Airport and supported client operations.
 
 ## Stack
 
