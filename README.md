@@ -21,7 +21,7 @@ I build practical web, mobile, and AI systems for local government, businesses, 
 > <sub>Built a modern website and a document-backed FAQ assistant in English, Cebuano, and Kamayo.</sub>
 >
 > ● `2025`<br>
-> **Technical Support & Systems** · Open Space Technologies<br>
+> **Technical Support & Systems** · [Open Space Technologies Inc.](https://www.osti.com.ph/)<br>
 > <sub>Helped deploy a passenger-feedback system at Mactan-Cebu International Airport and supported client operations.</sub>
 
 ## Stack
