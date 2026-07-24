@@ -121,7 +121,7 @@ Capstone thesis: a trilingual chatbot (English, Cebuano, Kamayo) using mBERT, RA
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kscervantes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KSCervantes&theme=github_dark" alt="Kyle Cervantes's GitHub statistics"/>
   &nbsp;
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kscervantes&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </div>
@@ -129,7 +129,7 @@ Capstone thesis: a trilingual chatbot (English, Cebuano, Kamayo) using mBERT, RA
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kscervantes&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KSCervantes&theme=github_dark" alt="Kyle Cervantes's top repository languages"/>
 </div>
 
 <br/>
